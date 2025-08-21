@@ -61,5 +61,5 @@ Decision Support: Enables managers to plan promotions, allocate inventory, and f
 
 **📸 Dashboard Preview**
 Dashboard Looks Like
-![Super_store Sales Report] https://github.com/prasanth5566/SuperStore_Dashboard/blob/main/SuperStore_Screenshot.png
+![Super_store Sales Report](https://github.com/prasanth5566/SuperStore_Dashboard/blob/main/SuperStore_Screenshot.png)
 
