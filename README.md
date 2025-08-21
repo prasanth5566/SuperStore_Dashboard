@@ -60,6 +60,6 @@ Product Focus: Specific categories drive high sales but vary in profit margins, 
 Decision Support: Enables managers to plan promotions, allocate inventory, and forecast demand more accurately.
 
 **📸 Dashboard Preview**
-
-URL Link:- https://github.com/prasanth5566/SuperStore_Dashboard/blob/main/SuperStore_Screenshot.png
+Dashboard Looks Like
+![Super_store Sales Report] https://github.com/prasanth5566/SuperStore_Dashboard/blob/main/SuperStore_Screenshot.png
 
